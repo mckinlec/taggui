@@ -57,7 +57,8 @@ files.
 In addition to manual tagging, you can automatically generate captions or tags
 for your images inside TagGUI.
 GPU generation requires a compatible NVIDIA GPU, and CPU generation is also
-supported.
+supported. TagGUI supports the latest GPU architectures including Blackwell 
+(RTX PRO 6000 and newer) with CUDA compute capability sm_120.
 
 To use the feature, select the images you want to caption in the image list,
 then select the captioning model you want to use in the Auto-Captioner pane.
